@@ -141,4 +141,4 @@ The game uses text-based commands. Type commands when prompted.
 
 ## Enjoy the Game ⚽
 
-Good luck in the penalty shootout — and may your shots always hit the back of the net!
+Have fun in the penalty shootout, may your shots always hit the back of the net!
