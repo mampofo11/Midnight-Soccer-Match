@@ -1,4 +1,4 @@
-# How to Run *The Midnight Soccer Match* (Java)
+# The Midnight Soccer Match (Java)
 
 ## Overview
 *The Midnight Soccer Match* is a text-based Java adventure game where the player explores locations, collects items, and competes in a penalty shootout. This guide explains how to compile, run, and play the game.
