@@ -142,3 +142,11 @@ The game uses text-based commands. Type commands when prompted.
 ## Enjoy the Game ⚽
 
 Have fun in the penalty shootout, may your shots always hit the back of the net!
+
+---
+
+## Author
+
+Marvin Ampofo  
+Computer Science Major – Towson University
+
